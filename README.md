@@ -15,4 +15,5 @@ A lightweight Chrome extension built with HTML, CSS, and JavaScript that lets yo
 4. Click **Load unpacked** and select this folder.
 
 ## Screenshot
-<img width="1920" height="1080" alt="Screenshot 2025-10-26 181124" src="https://github.com/user-attachments/assets/32b6b91e-c7ea-456d-9c60-c39617afdb93" />
+<img width="1004" height="371" alt="image" src="https://github.com/user-attachments/assets/bdcc24f8-c837-469f-bf2c-bb7b76455012" />
+
