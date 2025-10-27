@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 10px;
+    min-width: 400px;
+}
+
+#inputEl{
+    width: 100%;
+    padding: 10px; 
+    box-sizing: border-box; 
+    font-size:25px;
+    border: 2.25px solid rgb(40, 39, 39);
+    background-color: rgb(91, 219, 91);
+    color: black;
+}
+
+button{
+    margin-top: 10px;
+    padding: 1vh 2vw;
+    background-color: rgb(91, 219, 91);
+    margin-right: 2vw;
+}
+
+#dltbtn{
+    background-color: white;
+}
+
+#data{
+    color: rgb(7, 98, 7);
+}
+
+#getname{
+    margin-top: 2vh;
+    width: 100%;
+    background-color: rgb(91, 219, 91);
+    box-sizing: border-box;
+    border: 2.25px solid rgb(40, 39, 39);
+}
+
+#url{
+    margin: 4px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#namespace{
+    box-sizing: border-box;
+    width: 65vw;
+    margin: 8px;
+    background-color: white;
+    padding: 1vh 2vw;
+}
+
+#save-name{
+    background-color: white; 
+    margin: auto;
+    padding: 1vh 2vw;
+}
+
+#name{
+    width: 50%;
+}
+
+#namenurl{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul{
+    margin-top: 25px;
+    list-style:square;
+}
+
+li{
+    margin-top: 5px;
+}
+
+a{
+    color: rgb(7, 98, 7);
+}
+
